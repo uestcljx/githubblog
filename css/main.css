@@ -538,7 +538,7 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
-    background: url(https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN) top left no-repeat ;
+    background: url(https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN) top left no-repeat ; /* bing 壁纸API */
     background-size: cover; }
 
   .panel-cover--collapsed {
