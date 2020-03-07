@@ -9,10 +9,13 @@ avatarDesc: 磕盐
 url: "https://uestcljx.github.io"
 
 # Comment
-# comment:
-#     provider: duoshuo
-#     duoshuo:
-#     short_name: robotkang
+# valine_comment:
+
+#     enable: true
+#     leancloud_appid: RXk5cxUXPCYzrnEFbxM6EUEH-gzGzoHsz        # app_id
+#     leancloud_appkey: aqV8PeavEMHrl4u8lVemUlfR              # app_key
+#     placeholder: "欢迎提出您的宝贵意见"         # placeholder
+
 
 # Social
 social:

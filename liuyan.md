@@ -4,14 +4,15 @@ title: 留言板「MESSAGE」
 comments: true 
 ---
 
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>
-
+<!-- <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/> -->
+<!-- <img src="https://drive.google.com/uc?export=download&id=1r53GXXa4QnCaeVcb73z6U9CF_Hcxwxn1" width="420" height="250" alt="huanying"/> -->
+<img src="https://drive.google.com/uc?export=download&id=1dqT_342e540eBAG5cNMht7zKLug_Hagr" width="420" height="250" alt="huanying"/>
 
 <p><h4>有什么话要对我说吗？</h4>     
 <P><h4>这里是你畅所欲言的地方，可以咨询，</h4>
 <p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
 
-<div class="text-center" style="margin-top: 15px;">
+<!-- <div class="text-center" style="margin-top: 15px;">
     <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%9A%E5%90%88%E4%B8%80%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
 </div>
 
@@ -24,7 +25,7 @@ comments: true
 我一直相信，所有的相遇都是一种缘分。能够看到这些文字，我们之间就已经产生了些不可言喻，却又令人期待的微妙联系。
 
 虽然不知文字维系的缘分会有多长。
-既然来了，请尽量享受O(∩_∩)O~。
+既然来了，请尽量享受O(∩_∩)O~。 -->
 
 
 

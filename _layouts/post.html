@@ -87,22 +87,22 @@ layout: default
 <p>
     
    <div class="comment"></div>
-
-    <div id="gitmentContainer"></div>
-    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-    <script>
-    var gitment = new Gitment({
-        owner: 'uestcljx',
-        repo: 'https://github.com/uestcljx/uestcljx.github.io',
-        oauth: {
-            client_id: '00b0d6344a424f1ddddd',
-            client_secret: '3901cd27c66d90e7c5fec4ee1ef774cf7ca962e9',
-        },
-    });
-    gitment.render('gitmentContainer');
-    </script>
     
+   <script>
+    new Valine({
+        // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
+        av: AV, 
+        el: '.comment', // 
+        app_id: 'RXk5cxUXPCYzrnEFbxM6EUEH-gzGzoHsz', // 这里填写上面得到的APP ID
+        app_key: 'aqV8PeavEMHrl4u8lVemUlfR', // 这里填写上面得到的APP KEY
+        placeholder: '说出你对本文的想法💡', // [v1.0.7 new]留言框占位提示文字
+        avatar:'wavatar',
+        path:window.location.pathname,
+        guest_info:['nick','mail','link'] ,
+        pageSize:10,
+    });
+</script>
+
     <!-- <script>
         new Valine({
             // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
