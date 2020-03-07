@@ -6,7 +6,7 @@ comments: true
 
 <!-- <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/> -->
 <!-- <img src="https://drive.google.com/uc?export=download&id=1r53GXXa4QnCaeVcb73z6U9CF_Hcxwxn1" width="420" height="250" alt="huanying"/> -->
-<img src="https://drive.google.com/uc?export=download&id=1dqT_342e540eBAG5cNMht7zKLug_Hagr" width="420" height="250" alt="huanying"/>
+<img src="/images/upup.jpg" width="420" height="250" alt="huanying"/>
 
 <p><h4>点击页面左下角橙色按钮弹出音乐盒</h4>     
 <P><h4>点击音乐盒右下角列表图标弹出Play List</h4>
