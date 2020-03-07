@@ -66,11 +66,11 @@ title: 资源「USEFUL LINKS」
 <strong>江湖上的事，名头占了两成，功夫占了两成，余下的六成，却要靠黑白两道的朋友们赏脸了。</strong>
 <p>
 
-<a href="https://www.dandyweng.com" target="_blank" >翁天信</a>- homeschooling、自由的行者...&emsp;
+<!-- <a href="https://www.dandyweng.com" target="_blank" >翁天信</a>- homeschooling、自由的行者...&emsp;
 <a href="https://www.iots.vip" target="_blank" >Alliot's blog</a>- Maker & Developer&emsp;
 <a href="http://szhshp.org" target="_blank" >szhshp</a>- 前端，设计，游戏，生活.&emsp;
 <a href="https://xiaolei.tech" target="_blank" >Xiaolei</a>- 电科，影响了我的一位大神.&emsp;
-<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙&emsp; -->
+<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙&emsp; --> -->
 
 <h3> Others</h3>  
 <p> 
@@ -86,7 +86,7 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 </p> -->
 
 
-<a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
+<!-- <a  style="color:#272727" target="_blank"> <h1>游戏「Games」</h1></a>  
 </p>
 <a href="https://ymfa.github.io/phd-2048/" target="_blank" >Phd-2048</a>- 魔改2048&emsp;
 <a href="http://www.templatesy.com/demo/194/index.html" target="_blank" >Tank</a>- 经典中的经典...&emsp;
@@ -96,5 +96,5 @@ Markdown语法参考链接:<a href="https://www.zybuluo.com/mdeditor" target="_b
 <a href="/gamefly/"  target="_blank" >飞机大战</a>- 仿微信端 &emsp;
 <a href="http://www.jq22.com/demo/jquery-xiangqi-141214215742/"  target="_blank" >中国象棋</a>-国粹&emsp;
 <a href="http://www.jq22.com/demo/jquery-jfcz20160830/"  target="_blank" >见缝插针</a>-看你过得了多少关..&emsp;
-<a href="http://www.jq22.com/demo/jquery-wzq20151231/"  target="_blank" >五子棋</a>-益智小游戏&emsp;
+<a href="http://www.jq22.com/demo/jquery-wzq20151231/"  target="_blank" >五子棋</a>-益智小游戏&emsp; -->
 

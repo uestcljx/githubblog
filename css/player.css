@@ -169,13 +169,14 @@
 #playlist li:hover {
 	color:#716e6e;
 	font-weight:bold;
-	border-left:3px solid #1abc9c;
+	border-left:3px solid #eca53b;
 	padding:3px 15px 3px 11px;
 }
+/* #1abc9c */
 #playlist li.playing {
 	color:#716e6e;
 	font-weight:bold;
-	border-left:3px solid #1abc9c;
+	border-left:3px solid #eca53b;
 	padding:3px 15px 3px 11px;
 }
 #pContent {
@@ -185,7 +186,7 @@
 #pContent .ssBtn {
 	width:20px;
 	height:60px;
-	background:#1abc9c none repeat scroll 0% 0%;
+	background:#eca53b none repeat scroll 0% 0%;
 	position:relative;
 	right:0px;
 	bottom:0px;

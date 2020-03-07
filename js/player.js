@@ -1,4 +1,5 @@
 (function($){
+	var autoplay=true;
 	// Settings
 	var isShowNotification = false,
 		isInitMarquee = true,

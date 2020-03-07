@@ -8,9 +8,16 @@ comments: true
 <!-- <img src="https://drive.google.com/uc?export=download&id=1r53GXXa4QnCaeVcb73z6U9CF_Hcxwxn1" width="420" height="250" alt="huanying"/> -->
 <img src="https://drive.google.com/uc?export=download&id=1dqT_342e540eBAG5cNMht7zKLug_Hagr" width="420" height="250" alt="huanying"/>
 
-<p><h4>有什么话要对我说吗？</h4>     
+<p><h4>点击页面左下角橙色按钮弹出音乐盒</h4>     
+<P><h4>点击音乐盒右下角列表图标弹出Play List</h4>
+<p><h4>点击任意一首歌Play~~~</h4>   
+<p><h4>点击专辑封面开启/关闭随机顺序播放</h4>
+<p><h4>拖动标题倒退/跳进</h4>
+<p><h4>个人喜欢的一些收费专辑歌曲都有收录哦~ (小声👀</h4>
+
+<!-- <p><h4>有什么话要对我说吗？</h4>     
 <P><h4>这里是你畅所欲言的地方，可以咨询，</h4>
-<p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
+<p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>    -->
 
 <!-- <div class="text-center" style="margin-top: 15px;">
     <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/%E5%A4%9A%E5%90%88%E4%B8%80%E6%89%93%E8%B5%8F%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
@@ -30,20 +37,20 @@ comments: true
 
 
 
-<!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
-	<source src="http://omjh2j5h3.bkt.clouddn.com/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
+<!-- <audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
+	<source src="http://music.163.com/song/media/outer/url?id=1412142634.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
 	</audio>
 
-<div>  
+<div>   -->
            
  
-<object width="330" height="180" data="http://music.163.com/style/swf/widget.swf?sid=441877316&type=0&auto=1&width=310&height=430" type="application/x-shockwave-flash"></object>  
+<!-- <object width="330" height="180" data="http://music.163.com/style/swf/widget.swf?sid=441877316&type=0&auto=1&width=310&height=430" type="application/x-shockwave-flash"></object>  
           
-  </div> 
--->
+  </div>  -->
 
 
-<div id="QPlayer" class="QPlayer">
+
+<!-- <div id="QPlayer" class="QPlayer">
 <div id="pContent">
 	<div id="player">
 <span class="cover"></span>
@@ -78,16 +85,19 @@ comments: true
 
 <script>
 	var	playlist = [
-{title:"My All",artist:"浜崎あゆみ",mp3:"http://10.247.192.70/2Q2WF68C72B40BD8CF214BAD4C9D1A8B0168A0BAE177_unknown_A7E391748C36FBE69EDCBCDF9BE55BDB7B9A3554_6_116.77.75.203_80/m10.music.126.net/20190122224558/d43f3276f251c7a667a28bfa575c0dd5/ymusic/d0fd/fdba/0f82/f07e62a9a70f5cc09b7351a563755020.mp3",cover:"http://p4.music.126.net/7VJn16zrictuj5kdfW1qHA==/3264450024433083.jpg?param=106x106",},
-{title:"Try Everything",artist:"Shakira",mp3:"http://10.247.192.71/2Q2W8EE3EA8028BBBE50E422F1BB84671D0712D172B1_unknown_B57DCE6271C023118F5C8D9ACB6F6E3C73364180_0_116.77.76.230_80/m10.music.126.net/20190122224800/09238a6466e58a113c3da5387256e33b/ymusic/57b3/ecea/f5fe/12b654b5486536ac67cc36742dc6e3e2.mp3",cover:"http://p4.music.126.net/KLw_TLTRUe9pClPv4vlEtQ==/936783906865219.jpg?param=106x106",},
-{title:"Victory",artist:"Two Steps From Hell",mp3:"http://10.247.192.70:81/2Q2W85CDAD9F135F9FD71267C4042E3C2557AB7AFC6A_unknown_9E48C150A06BDADCDFDEFB99533EE59DCD5CEB29_10_116.77.76.229_81/m10.music.126.net/20190122224950/64bcef2e1c9517dcb63cec6829a3823b/ymusic/140e/f621/b3b1/aeed0174bcd6b5fd59f8fdcd05fc42fe.mp3",cover:"http://p4.music.126.net/YXY1vPG5rtdV7w_cWDnNWw==/884007348732141.jpg?param=106x106",},
-{title:"Monody",artist:"TheFatRat,Laura Brehm",mp3:"http://10.247.192.70:83/2Q2W49CEF2E3FA931D92565FB00EBBD7C0FFEE45FF07_unknown_91D654C0659BAC0AF2B98A50F0D6C0FB0A125A8F_0_116.77.75.202_83/m10.music.126.net/20190122225037/e374dc010d1f654b171ea795be0e9a63/ymusic/30f0/7291/04c0/1b52de41653825643ed98a871a6b3157.mp3",cover:"http://p3.music.126.net/1odRfg3HXWmYw02EMXKRKQ==/116548232557498.jpg?param=106x106",},
-{title:"Luv Letter",artist:"dj okawari ",mp3:"http://10.247.192.71:83/2Q2WC9A24655BC22B25B355238CA2B839DA0C2320647_unknown_BCAA72EE899B9E14D074589694400520B93A0BC7_0_116.77.76.230_83/m10.music.126.net/20190122225119/58562f8422635a521be21ed673556fa4/ymusic/501e/7ea7/8203/9bf3f54d9d7f8e3b32b463ecfc074718.mp3",cover:"http://p4.music.126.net/F2fqWwTTT2DAOKPQKQ-G0A==/5892282813545901.jpg?param=106x106",},
-{title:"Born this way",artist:"lady gaga ",mp3:"http://10.247.192.67:81/2Q2W5D6E49490E9A08BC94F62F18719BE4F5C23E616A_unknown_19622556E86744878F7CBBA4856DD0035DD25281_0_116.77.76.226_81/m10.music.126.net/20190122225210/7d31b7024eaf80e79d1da898434df4d9/ymusic/4d7b/cf81/b1a2/03c659fd1ae64d2b5b8d7761ee13a552.mp3",cover:"http://p4.music.126.net/G2nCsXpMc81lcUY-pOHr9Q==/2528876745541310.jpg?param=106x106",},
-{title:"The Edge of Glory",artist:"Lady Gaga",mp3:"http://10.247.192.72:81/2Q2W23024728DBB70A1A8E52DDBF16BDB88EB6778DB0_unknown_F2E734ABA62252CF0EBF4B2FC1426E6F53BF489D_4_116.77.76.234_81/m10.music.126.net/20190122225254/185b02a88a94f8867d6e84b3e9abfc83/ymusic/6763/cfde/edfc/25f792523b102b277b60687c488be1c9.mp3",cover:"http://p3.music.126.net/iYG3tZ2xSKrzf65BaDtEJQ==/7929677860524772.jpg?param=106x106",},
-{title:"Beautiful",artist:"Eminem ",mp3:"http://10.247.192.69:82/2Q2WAC1DB0D38FC2BEA6BA0970F67E874C2D61CBA7E5_unknown_67551CA99CCEB5B268C118FED19C5A8129E41EBA_0_116.77.76.228_82/m10.music.126.net/20190122225454/66408de614af59f39d93e7014d12870a/ymusic/d09a/13fb/d1c9/4d1b480319625523bec279d506317892.mp3",cover:"http://p4.music.126.net/F2fqWwTTT2DAOKPQKQ-G0A==/5892282813545901.jpg?param=106x106",},
-{title:"Hall of Fame",artist:"the script/will.i.am",mp3:"http://10.247.192.72:83/2Q2WF390DFFEB7AA8E7A7854D5329EA743ECA64FB69A_unknown_E3504936CAE67F771DA5857E259D1CFEC80115CB_9_116.77.76.231_83/m10.music.126.net/20190122225548/503432a742119de6c065a336ef8c4320/ymusic/c770/441a/9a8e/2f64d8b7c42eebd33138242101ebfe33.mp3",cover:"http://p4.music.126.net/d5ryd0uwq29KWk3bRZ1wsA==/45079976751142.jpg?param=106x106",},
-{title:"刚好遇见你",artist:"李玉刚",mp3:"http://10.247.192.70/2Q2W372C268C52F82E53242C83EB73DE1E48F864904D_unknown_9CB15E4E7BF25C356E685BC9AD7A82595FFF8860_2_116.77.76.229_80/m10.music.126.net/20190122225636/c898955b7bf94d987a22603645752ef3/ymusic/3466/f88c/165c/3520e5664afd420989e88bc3a694c237.mp3",cover:"http://p4.music.126.net/Nn8kTtc14uWJw_UWbEc5mg==/7909886650478099.jpg?param=106x106",},
+{title:"Hey Jude",artist:"The Beatles",mp3:"http://music.163.com/song/media/outer/url?id=1412142634.mp3",cover:"https://p1.music.126.net/kuYbl0-jocTv-FrOCOWbGQ==/109951164580527394.jpg?param=130y130",},
+{title:"Let it Be",artist:"The Beatles",mp3:"http://freetyst.nf.migu.cn/public/product5th/product27/2018/12/29/2018%E5%B9%B403%E6%9C%8821%E6%97%A517%E7%82%B924%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E6%AD%A3%E4%B8%9C54%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/6005669Z1DR.mp3?channelid=03&k=d182b2ab68115487&t=1583592611&msisdn=39325cb7-72db-4499-94cb-6a01ae6a7df5",cover:"https://cdnmusic.migu.cn/picture/2019/1128/1714/AL3024a28cea2d484b9715c5f823ec0428.jpg",},
+{title:"With A Little Help",artist:"The Beatles",mp3:"http://freetyst.nf.migu.cn/public/product5th/product34/2019/07/2217/2019%E5%B9%B403%E6%9C%8805%E6%97%A518%E7%82%B952%E5%88%86%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E6%AD%A3%E4%B8%9C65%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/6005669Z1GA.mp3?channelid=03&k=2bdae21f88ba967c&t=1583593113&msisdn=aa28e46a-4b39-49ea-9760-5a27cdffeefe",cover:"https://cdnmusic.migu.cn/picture/2019/1128/1714/ALd6281acca3d749f292f71861e947b5de.jpg",},
+{title:"Believer",artist:"Imagine Dragons",mp3:"http://music.163.com/song/media/outer/url?id=1338149101",cover:"https://p2.music.126.net/0_YzqMGHrDXU9C277IFerA==/109951163783209324.jpg?param=130y130",},
+{title:"Natural",artist:"Imagine Dragons",mp3:"http://freetyst.nf.migu.cn/public/product5th/product27/2018/12/21/%E9%A2%84%E7%95%99%E6%95%B0%E5%AD%97%E4%B8%93%E8%BE%91cpid%E4%B8%BA600566%E7%9A%84%E6%95%B0%E6%8D%AE/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/6005669Z17R.mp3?channelid=03&k=6690a06f4a92eb00&t=1583590331&msisdn=fe92116a-0f90-4dde-a269-d2467d08a37f",cover:"https://cdnmusic.migu.cn/picture/2019/1128/1714/AL805dc68530eb404ca29e4ceb79bacb69.jpg",},
+{title:"稻香",artist:"周杰伦",mp3:"http://freetyst.nf.migu.cn/public/product5th/product35/2019/10/1420/2009%E5%B9%B406%E6%9C%8826%E6%97%A5%E5%8D%9A%E5%B0%94%E6%99%AE%E6%96%AF/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/60054702010.mp3?channelid=03&k=9a365191f41ea24c&t=1583583275&msisdn=1fe2411a-7032-4518-b7ac-11c450d136d8",cover:"https://p1.music.126.net/HBanuZpt8SD2kf15AFa6Og==/109951163200234839.jpg?param=130y130",},
+{title:"红尘客栈",artist:"周杰伦",mp3:"http://freetyst.nf.migu.cn/public/product5th/product35/2019/09/2421/2012%E5%B9%B412%E6%9C%885%E6%97%A5%E7%B4%A7%E6%80%A5%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A31%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/60054703841.mp3?channelid=03&k=6054fd64a932d811&t=1583590417&msisdn=78835ef1-28dd-469c-878b-8a358f842ced",cover:"https://cdnmusic.migu.cn/picture/2019/1106/1928/AL390dd6c7bfbd4d7a8aef1ef0e9b09fdd.jpg",},
+{title:"七里香",artist:"周杰伦",mp3:"http://freetyst.nf.migu.cn/public/product5th/product35/2019/10/1618/2009%E5%B9%B406%E6%9C%8826%E6%97%A5%E5%8D%9A%E5%B0%94%E6%99%AE%E6%96%AF/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/60054701934.mp3?channelid=03&k=fa7e345234766a2b&t=1583583822&msisdn=ea16b256-0ec9-43c9-9d4e-a5846055da18",cover:"https://p1.music.126.net/P1goeQ7SoxEkFsb4ZDijMw==/7746059418324672.jpg?param=130y130",},
+{title:"一路向北",artist:"周杰伦",mp3:"http://freetyst.nf.migu.cn/public/product11/2018/06/21/2009%E5%B9%B406%E6%9C%8826%E6%97%A5%E5%8D%9A%E5%B0%94%E6%99%AE%E6%96%AF/%E6%AD%8C%E6%9B%B2%E4%B8%8B%E8%BD%BD/MP3_320_16_Stero/%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97-%E5%91%A8%E6%9D%B0%E4%BC%A6.mp3?channelid=03&k=7d7c7e89e9311dc7&t=1583584181&msisdn=63fe524a-b968-429f-b5eb-8ad3a08a92be",cover:"https://cdnmusic.migu.cn/picture/2019/1125/1028/ALe2de34dab7c04adc8cd48025339c46c5.jpg",},
+{title:"告白气球",artist:"周杰伦",mp3:"http://freetyst.nf.migu.cn/public/product5th/product28/2019/02/12/2016%E5%B9%B408%E6%9C%8815%E6%97%A509%E7%82%B919%E5%88%86%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A310%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/60054704037.mp3?channelid=03&k=605ee0f2f29d3ad6&t=1583594928&msisdn=0439d3f9-568f-46f2-9f5e-d1e90a80f57c",cover:"https://cdnmusic.migu.cn/picture/2019/1031/0254/ALd6c2d9697d2a4f5f96508c8a7ec8b1a8.jpg",},
+// {title:"Fall",artist:"Eminem ",mp3:"http://freetyst.nf.migu.cn/public/product23/2018/11/15/2018%E5%B9%B408%E6%9C%8831%E6%97%A523%E7%82%B942%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E6%AD%A3%E4%B8%9C13%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/6005669Z2CD.mp3?channelid=03&k=177e63c9ca600f69&t=1583584390&msisdn=62ae76c4-d23d-4018-a6f0-a6841b44f649",cover:"https://cdnmusic.migu.cn/picture/2019/1205/1807/ALdc192c067779469e918eed6a02006856.jpg",},
+{title:"Godzilla",artist:"Eminem",mp3:"http://freetyst.nf.migu.cn/public/product8th/product38/2020/01/1801/2020%E5%B9%B401%E6%9C%8817%E6%97%A517%E7%82%B932%E5%88%86%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E6%AD%A3%E4%B8%9C20%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/6005669Z2GS.mp3?channelid=03&k=b1d60ad09d6a6276&t=1583584333&msisdn=982051c4-601e-442e-9dc2-1ef107b11053",cover:"https://cdnmusic.migu.cn/picture/2020/0117/1749/AL12db4988293672febd045f1d2ab030d2.jpg",},
+{title:"Kamikaze",artist:"Eminem",mp3:"http://freetyst.nf.migu.cn/public/product5th/product27/2018/12/21/2018%E5%B9%B408%E6%9C%8831%E6%97%A523%E7%82%B942%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E6%AD%A3%E4%B8%9C13%E9%A6%96/%E6%A0%87%E6%B8%85%E9%AB%98%E6%B8%85/MP3_320_16_Stero/6005669Z2B3.mp3?channelid=03&k=f91ce8204e3ac0e8&t=1583584480&msisdn=98f26dfc-9912-43ae-9aeb-0d6d74aa1a6f",cover:"https://cdnmusic.migu.cn/picture/2019/1205/1807/ALdc192c067779469e918eed6a02006856.jpg",},
 ];
   var isRotate = true;
   var autoplay = true;
@@ -118,7 +128,7 @@ function setHalfVolume()
   myVid.volume=0.2;
   } 
 
-</script> 
+</script>  -->
 
 
 <!-- 多说评论框 start 
