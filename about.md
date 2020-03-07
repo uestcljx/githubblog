@@ -48,6 +48,8 @@ coffee->idea->code->deep-learning->mentor->paper->rebuttal->relationship->breaku
 <a href="/lovekang/" style="color:#F16D7E"> <p>Love Site😜</p></a>  
 </p>
 </div>
+
+
 <!-- <h3> Working Hard</h3>   
 <img src="/images/carpediem_wide.png"> 
 <br />
@@ -94,6 +96,8 @@ coffee->idea->code->deep-learning->mentor->paper->rebuttal->relationship->breaku
 </p>
 </div> -->
 
+
+
 <h3> 联系方式 </h3>         
 <script>
 	function mousemethod(op,imgid){
@@ -110,5 +114,6 @@ coffee->idea->code->deep-learning->mentor->paper->rebuttal->relationship->breaku
 <div class="divcss5-right">
 	<a href="https://uestcljx.github.io/"><img src="/images/sig.gif"></a>
 </div> 
+
 
 
