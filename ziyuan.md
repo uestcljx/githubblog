@@ -3,14 +3,14 @@ layout: page
 title: 资源「USEFUL LINKS」 
 ---      
 
-<P>       
+<!-- <P>       
 <h3> Personal Website</h3>   
-<p>
+<p> -->
 
 <!-- <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E9%85%8D%E8%89%B2%E5%99%A8.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/college/" target="_blank" style="text-decoration:none">大学|四年</a>- 记青春年华. &emsp; -->
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E4%BC%98%E7%95%8C%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
-<a href="/time machine/" style="color:#DC143C" target="_blank" style="text-decoration:none">微语</a>- Time Machine &emsp;
+<!-- <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/%E4%BC%98%E7%95%8C%E7%BD%91.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
+<a href="/time machine/" style="color:#DC143C" target="_blank" style="text-decoration:none">微语</a>- Time Machine &emsp; -->
 <!-- <img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/Colorfavs.png" width="20" height="20" alt="photos" style="display:inline;margin-bottom: -5px;"/>
 <a href="/book/" style="color:#DC143C" target="_blank" style="text-decoration:none">个人书单</a>-  FLAG  -->
 
@@ -42,7 +42,9 @@ title: 资源「USEFUL LINKS」
 <p>
 <!-- <a href="http://zh.flightaware.com/live/" target="_blank">实时航班跟踪</a>- 地图实时显示天上的飞机状态，令你大开眼界　 -->
 &nbsp;&nbsp;<a href="https://tool.lu" target="_blank">在线工具</a>- WEB版程序猿的工具箱。&emsp;
-<a href="https://www.portablesoft.org" target="_blank">精品绿色便携软件 </a>- 一个软件分享平台。
+&nbsp;&nbsp;<a href="http://a1one7.gz01.bdysite.com/music/" target="_blank">One Music</a>- 听无损收费音乐&emsp;
+
+<!-- <a href="https://www.portablesoft.org" target="_blank">精品绿色便携软件 </a>- 一个软件分享平台。 -->
 <!-- <a href="https://www.bfdz.ink/2018/07/06/103/" target="_blank">周浩作品集 </a>- 纪录片。 -->
 
 <!-- <a href="https://archive.org/" target="_blank">互联网档案馆 </a>- 网站时光机。 -->
@@ -60,6 +62,7 @@ title: 资源「USEFUL LINKS」
 <!-- <a href="http://wiki.xiaolei.tech" target="_blank" > Xiaolei's Wiki </a>一个个人的维基百科库，相当给力&emsp; -->
 <p>
 <a href="https://github.com/litten/hexo-theme-yilia" target="_blank" > Yilia </a> 优雅的Hexo响应式主题，个人超级喜欢。
+
  <!-- <p>
 <h3> Friends</h3>  
  <p>
@@ -70,7 +73,7 @@ title: 资源「USEFUL LINKS」
 <a href="https://www.iots.vip" target="_blank" >Alliot's blog</a>- Maker & Developer&emsp;
 <a href="http://szhshp.org" target="_blank" >szhshp</a>- 前端，设计，游戏，生活.&emsp;
 <a href="https://xiaolei.tech" target="_blank" >Xiaolei</a>- 电科，影响了我的一位大神.&emsp;
-<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙&emsp; --> -->
+<a href="https://program-think.blogspot.com/" target="_blank" >编程随想的博客</a>- 需翻墙&emsp; --> 
 
 <h3> Others</h3>  
 <p> 
