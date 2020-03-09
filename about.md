@@ -45,7 +45,7 @@ coffee->idea->code->deep-learning->mentor->paper->rebuttal->relationship->breaku
 电影 《生活多美好》《死亡诗社》《大鱼》
 <br>
 剧《想见你》《老友记》
-<a href="/lovekang/" style="color:#F16D7E"> <p>Love Site😜</p></a>  
+<a href="/love/" style="color:#F16D7E"> <p>Love Site😜</p></a>  
 </p>
 </div>
 
